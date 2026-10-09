@@ -58,8 +58,8 @@ Python, Pandas, NumPy, Matplotlib, Seaborn and Jupyter Notebook.
 
 ## Project Files
 
-- Apollo_Hospitals_EDA.ipynb — analysis notebook
-- Apollo_Hospitals_Charts_and_Insights_Report.pdf — report
+- apollo_hospitals_EDA.ipynb — analysis notebook
+- Apollo_Hospitals_Charts_and_InsightsReport.pdf — report
 
 ## How to Run
 
