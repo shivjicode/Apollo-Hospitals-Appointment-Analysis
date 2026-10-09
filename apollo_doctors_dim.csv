@@ -1,0 +1,321 @@
+doctor_id,doctor_name,specialty,qualification,experience_years,city,state,hospital_name,consultation_fee,rating,total_reviews,available_days,avg_slot_duration_min,accepts_insurance,teleconsult_enabled
+DOC1001,Dr. Deepa Sharma,Urology,"MBBS, MCh",12,Bengaluru,Karnataka,Apollo Hospital Bannerghatta,2300,4.4,1502,Mon-Fri,15,Yes,No
+DOC1002,Dr. Venkatesan Khan,Paediatrics,"MBBS, MS, FRCS",25,Chandigarh,Punjab,Apollo Clinic Sector 8,1200,4.5,2453,Mon-Sat,10,Yes,Yes
+DOC1003,Dr. Pradeep Menon,General Physician,"MBBS, DM",13,Mumbai,Maharashtra,Apollo Clinic Andheri,700,4.7,995,Mon-Wed-Fri-Sat,15,No,No
+DOC1004,Dr. Vivek Mathew,General Physician,"MBBS, MD",31,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,1000,4.9,666,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1005,Dr. Savita Philip,General Physician,"MBBS, MD, PhD",5,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,600,4.5,1383,Mon-Sat,30,Yes,Yes
+DOC1006,Dr. Zainab Ahmad,ENT,"MBBS, MCh",13,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,1400,4.6,1041,Mon-Wed-Fri-Sat,10,No,Yes
+DOC1007,Dr. Naveen Siddiqui,Gynaecology,"MBBS, MD, PhD",23,Chennai,Tamil Nadu,Apollo Clinic Adyar,2100,4.7,475,Mon-Fri,10,Yes,No
+DOC1008,Dr. Aditya Philip,Gynaecology,"MBBS, MCh",31,Chennai,Tamil Nadu,Apollo Hospital Greams Road,2300,4.9,2284,Mon-Fri,10,No,Yes
+DOC1009,Dr. George Siddiqui,Gynaecology,"MBBS, MD, PhD",10,Bengaluru,Karnataka,Apollo Hospital Bannerghatta,1700,4.7,1172,Tue-Sun,20,Yes,No
+DOC1010,Dr. Vivek Thomas,General Physician,"MBBS, MS",12,Mumbai,Maharashtra,Apollo Clinic Andheri,700,4.9,2298,Mon-Fri,15,Yes,Yes
+DOC1011,Dr. Lakshmi Krishnamurthy,Endocrinology,"MBBS, DM",10,Pune,Maharashtra,Apollo Clinic Kharadi,2000,4.1,1771,Tue-Sun,10,Yes,Yes
+DOC1012,Dr. Fatima Mehta,Paediatrics,"MBBS, MCh",23,Pune,Maharashtra,Apollo Clinic Baner,1300,4.4,1048,Mon-Fri,20,Yes,No
+DOC1013,Dr. Mathew Mehta,Neurology,"MBBS, MRCP",8,Chennai,Tamil Nadu,Apollo Hospital Greams Road,2400,4.8,583,Tue-Sun,15,Yes,No
+DOC1014,Dr. Rohit George,ENT,"MBBS, MS, FRCS",6,Chennai,Tamil Nadu,Apollo Clinic Adyar,1200,4.9,1203,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1015,Dr. Mathew Patel,ENT,"MBBS, MD",29,Kolkata,West Bengal,Apollo Gleneagles Kolkata,1700,4.7,2001,Mon-Fri,15,No,No
+DOC1016,Dr. Ramesh Mehta,Ophthalmology,"MBBS, MS, FRCS",29,Chennai,Tamil Nadu,Apollo Clinic Adyar,2100,4.8,992,Mon-Wed-Fri-Sat,20,Yes,No
+DOC1017,Dr. Deepa Ansari,General Physician,"MBBS, MCh",9,Chandigarh,Punjab,Apollo Clinic Panchkula,600,3.7,683,Mon-Sat,20,No,Yes
+DOC1018,Dr. George Sharma,Dermatology,"MBBS, MCh",25,Coimbatore,Tamil Nadu,Apollo Clinic Coimbatore,1600,4.1,1656,Mon-Sat,20,Yes,Yes
+DOC1019,Dr. Radhika Philip,General Physician,"MBBS, DNB",18,Bengaluru,Karnataka,Apollo Clinic Jayanagar,800,4.6,2452,Mon-Sat,20,No,Yes
+DOC1020,Dr. Deepa Raghunathan,General Physician,"MBBS, MCh",13,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,700,5.0,142,Mon-Sat,15,Yes,Yes
+DOC1021,Dr. Mathew Patel,Ophthalmology,"MBBS, DNB",6,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,1500,4.5,628,Mon-Wed-Fri-Sat,15,Yes,No
+DOC1022,Dr. Jacob Singh,Gynaecology,"MBBS, DM",17,Mumbai,Maharashtra,Apollo Clinic Andheri,1900,4.8,2006,Tue-Sun,30,Yes,Yes
+DOC1023,Dr. Thomas Rao,Dermatology,"MBBS, DM",8,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,1200,4.9,660,Mon-Sat,20,Yes,No
+DOC1024,Dr. Aditya Khan,Gastroenterology,"MBBS, DM",19,Pune,Maharashtra,Apollo Clinic Baner,2400,4.9,900,Mon-Sat,10,Yes,Yes
+DOC1025,Dr. Anand Subramaniam,General Physician,"MBBS, MS",13,Mumbai,Maharashtra,Apollo Clinic Andheri,700,4.7,1702,Mon-Fri,20,No,Yes
+DOC1026,Dr. Shobha George,Endocrinology,"MBBS, MRCP",25,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,2200,4.8,1463,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1027,Dr. Harish Ansari,Paediatrics,"MBBS, MS, FRCS",4,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,800,4.7,897,Mon-Wed-Fri-Sat,30,No,No
+DOC1028,Dr. Suresh Ansari,ENT,"MBBS, MS",17,Chennai,Tamil Nadu,Apollo Hospital Greams Road,1500,4.7,1435,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1029,Dr. Jaya Singh,ENT,"MBBS, MRCP",2,Chandigarh,Punjab,Apollo Clinic Sector 8,1000,4.0,1713,Mon-Wed-Fri-Sat,15,Yes,Yes
+DOC1030,Dr. Karthik Patel,Dermatology,"MBBS, MRCP",23,Kochi,Kerala,Apollo Adlux Hospital Kochi,1600,4.4,979,Mon-Sat,10,Yes,Yes
+DOC1031,Dr. Rekha Joshi,Cardiology,"MBBS, MRCP",17,Chandigarh,Punjab,Apollo Clinic Panchkula,2200,4.4,2166,Mon-Fri,30,Yes,Yes
+DOC1032,Dr. Lakshmi Sharma,Urology,"MBBS, MS, FRCS",30,Ahmedabad,Gujarat,Apollo Clinic SG Highway,2700,4.7,210,Mon-Wed-Fri-Sat,20,No,No
+DOC1033,Dr. Mathew Nair,General Physician,"MBBS, DM",2,Bengaluru,Karnataka,Apollo Spectra Koramangala,600,4.7,589,Mon-Fri,10,Yes,No
+DOC1034,Dr. Fatima Reddy,General Physician,"MBBS, MD",19,Coimbatore,Tamil Nadu,Apollo Spectra Coimbatore,700,4.9,265,Mon-Fri,10,Yes,Yes
+DOC1035,Dr. Ramesh Ahmad,Cardiology,"MBBS, MS",24,Bengaluru,Karnataka,Apollo Clinic Jayanagar,2700,4.6,55,Mon-Fri,30,Yes,No
+DOC1036,Dr. Karthik Khan,ENT,"MBBS, MD",15,Jaipur,Rajasthan,Apollo Spectra Jaipur,1300,4.6,853,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1037,Dr. Fatima Kumar,ENT,"MBBS, MCh",20,Hyderabad,Telangana,Apollo Hospital Secunderabad,1500,5.0,2372,Mon-Fri,20,No,Yes
+DOC1038,Dr. Ramesh Sharma,Ophthalmology,"MBBS, MRCP",23,Delhi,Delhi,Apollo Cradle Moti Nagar,1900,4.2,24,Mon-Sat,10,Yes,No
+DOC1039,Dr. Rohit Nair,Ophthalmology,"MBBS, MD, PhD",21,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,1900,4.9,389,Mon-Fri,20,Yes,Yes
+DOC1040,Dr. Thomas Menon,Dermatology,"MBBS, MCh",18,Chennai,Tamil Nadu,Apollo Clinic Adyar,1600,4.9,136,Mon-Sat,20,Yes,Yes
+DOC1041,Dr. Rohit Rao,Orthopaedics,"MBBS, MS",13,Delhi,Delhi,Apollo Cradle Moti Nagar,1900,4.6,1161,Mon-Fri,20,Yes,No
+DOC1042,Dr. Savita Thomas,ENT,"MBBS, MD, PhD",22,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,1400,4.1,2314,Tue-Sun,30,Yes,Yes
+DOC1043,Dr. Venkatesan Siddiqui,Gynaecology,"MBBS, MS, FRCS",20,Delhi,Delhi,Apollo Spectra Delhi,2000,4.1,570,Mon-Sat,10,Yes,Yes
+DOC1044,Dr. Rohit Gupta,Orthopaedics,"MBBS, MRCP",6,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1700,4.9,1651,Mon-Wed-Fri-Sat,10,Yes,Yes
+DOC1045,Dr. Usha Menon,ENT,"MBBS, MD",5,Chandigarh,Punjab,Apollo Clinic Panchkula,1100,4.7,2227,Mon-Fri,30,Yes,Yes
+DOC1046,Dr. Girish Raghunathan,Paediatrics,"MBBS, MD",19,Coimbatore,Tamil Nadu,Apollo Spectra Coimbatore,1100,4.5,1311,Mon-Fri,15,Yes,Yes
+DOC1047,Dr. Samuel Ahmad,Pulmonology,"MBBS, DNB",11,Bengaluru,Karnataka,Apollo Hospital Bannerghatta,2000,4.8,773,Mon-Fri,15,No,Yes
+DOC1048,Dr. Meena George,General Physician,"MBBS, MD, PhD",9,Pune,Maharashtra,Apollo Spectra Pune,700,4.9,845,Mon-Fri,20,Yes,No
+DOC1049,Dr. Harish Mehta,Paediatrics,"MBBS, MD",30,Pune,Maharashtra,Apollo Spectra Pune,1400,4.7,1912,Mon-Fri,15,No,Yes
+DOC1050,Dr. Girish Mathew,Ophthalmology,"MBBS, DM",18,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,1600,4.5,56,Mon-Sat,15,No,Yes
+DOC1051,Dr. Vivek Patel,ENT,"MBBS, MCh",24,Mumbai,Maharashtra,Apollo Spectra Mumbai,1600,4.5,1923,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1052,Dr. Rohit Gupta,Cardiology,"MBBS, MCh",20,Bengaluru,Karnataka,Apollo Hospital Bannerghatta,2600,4.7,1410,Mon-Sat,30,Yes,No
+DOC1053,Dr. Fatima Joshi,General Physician,"MBBS, MS",13,Delhi,Delhi,Apollo Spectra Delhi,700,4.9,1082,Mon-Fri,20,Yes,No
+DOC1054,Dr. Jacob Sharma,Gynaecology,"MBBS, DM",8,Delhi,Delhi,Apollo Spectra Delhi,1600,4.5,1562,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1055,Dr. Fatima Ansari,Cardiology,"MBBS, MS",10,Hyderabad,Telangana,Apollo Clinic Banjara Hills,2200,4.8,2406,Tue-Sun,20,No,Yes
+DOC1056,Dr. Padma Thomas,Psychiatry,"MBBS, MCh",23,Kolkata,West Bengal,Apollo Clinic Park Street,3300,4.8,1225,Mon-Fri,15,No,No
+DOC1057,Dr. Lakshmi Ansari,Cardiology,"MBBS, DNB",20,Pune,Maharashtra,Apollo Clinic Kharadi,2600,4.8,1101,Tue-Sun,30,Yes,Yes
+DOC1058,Dr. Naveen Singh,Neurology,"MBBS, MS, FRCS",10,Ahmedabad,Gujarat,Apollo Clinic SG Highway,2200,4.9,1551,Mon-Wed-Fri-Sat,30,No,No
+DOC1059,Dr. Savita Naidu,Psychiatry,"MBBS, MRCP",7,Bengaluru,Karnataka,Apollo Clinic Jayanagar,2600,5.0,222,Mon-Fri,10,Yes,No
+DOC1060,Dr. Ayesha Patel,Cardiology,"MBBS, DM",20,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,2300,4.2,1416,Mon-Fri,15,Yes,Yes
+DOC1061,Dr. Anand Kumar,Dermatology,"MBBS, MRCP",24,Pune,Maharashtra,Apollo Clinic Kharadi,1800,4.7,1051,Mon-Sat,30,No,No
+DOC1062,Dr. Jaya Thomas,ENT,"MBBS, MS, FRCS",9,Mumbai,Maharashtra,Apollo Spectra Mumbai,1300,4.9,1966,Mon-Wed-Fri-Sat,15,Yes,No
+DOC1063,Dr. Ashok Philip,Gynaecology,"MBBS, MS",2,Pune,Maharashtra,Apollo Spectra Pune,1500,4.9,409,Mon-Fri,15,No,Yes
+DOC1064,Dr. Karthik Rao,Gastroenterology,"MBBS, MRCP",16,Coimbatore,Tamil Nadu,Apollo Clinic Coimbatore,2000,4.9,393,Mon-Wed-Fri-Sat,20,No,No
+DOC1065,Dr. Jacob Menon,Pulmonology,"MBBS, MRCP",18,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,2000,4.8,708,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1066,Dr. Vivek Philip,Orthopaedics,"MBBS, MRCP",4,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,1400,4.7,1480,Tue-Sun,30,Yes,No
+DOC1067,Dr. Naveen Kumar,Gastroenterology,"MBBS, MCh",11,Kolkata,West Bengal,Apollo Clinic Salt Lake,2100,4.8,70,Tue-Sun,10,Yes,Yes
+DOC1068,Dr. Aditya Mehta,General Physician,"MBBS, DNB",2,Bengaluru,Karnataka,Apollo Clinic Jayanagar,600,4.8,2221,Mon-Fri,10,No,Yes
+DOC1069,Dr. Ayesha Menon,Orthopaedics,"MBBS, MRCP",4,Chennai,Tamil Nadu,Apollo Children's Hospital,1600,4.7,782,Mon-Sat,15,No,Yes
+DOC1070,Dr. Pradeep Philip,General Physician,"MBBS, MS, FRCS",16,Hyderabad,Telangana,Apollo Hospital Secunderabad,800,4.6,2170,Mon-Sat,20,Yes,Yes
+DOC1071,Dr. Samuel Menon,General Physician,"MBBS, DM",7,Delhi,Delhi,Apollo Spectra Delhi,700,4.6,2037,Mon-Fri,20,No,Yes
+DOC1072,Dr. Pradeep Mehta,Gynaecology,"MBBS, MD, PhD",25,Bengaluru,Karnataka,Apollo Clinic Jayanagar,2100,4.8,816,Mon-Wed-Fri-Sat,15,No,Yes
+DOC1073,Dr. Pradeep Mehta,Endocrinology,"MBBS, MD",11,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,2000,4.8,62,Mon-Wed-Fri-Sat,15,No,Yes
+DOC1074,Dr. Suresh Krishnamurthy,General Physician,"MBBS, MS, FRCS",26,Mumbai,Maharashtra,Apollo Spectra Mumbai,900,5.0,919,Mon-Fri,30,Yes,Yes
+DOC1075,Dr. Lakshmi Krishnamurthy,Dermatology,"MBBS, MS, FRCS",4,Mumbai,Maharashtra,Apollo Spectra Mumbai,1300,4.7,1048,Mon-Sat,30,Yes,No
+DOC1076,Dr. Suresh Raghunathan,Dermatology,"MBBS, DM",23,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1800,4.7,1988,Mon-Sat,10,Yes,Yes
+DOC1077,Dr. Jaya Sharma,ENT,"MBBS, DNB",10,Chennai,Tamil Nadu,Apollo Hospital Greams Road,1300,3.9,126,Mon-Fri,30,Yes,No
+DOC1078,Dr. Savita Iyer,General Physician,"MBBS, MCh",27,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,800,4.6,322,Mon-Fri,10,Yes,Yes
+DOC1079,Dr. Harish Khan,Orthopaedics,"MBBS, MD",27,Bengaluru,Karnataka,Apollo Spectra Koramangala,2300,4.0,1355,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1080,Dr. Karthik Rao,ENT,"MBBS, MCh",24,Delhi,Delhi,Apollo Cradle Moti Nagar,1600,4.8,1926,Mon-Sat,10,Yes,No
+DOC1081,Dr. Jacob Ansari,Cardiology,"MBBS, MD, PhD",6,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,2100,4.4,145,Tue-Sun,10,No,Yes
+DOC1082,Dr. Harish Joshi,Endocrinology,"MBBS, MD, PhD",21,Delhi,Delhi,Apollo Cradle Moti Nagar,2300,4.3,2295,Mon-Wed-Fri-Sat,15,No,Yes
+DOC1083,Dr. Vivek Ahmad,Paediatrics,"MBBS, MRCP",9,Chennai,Tamil Nadu,Apollo Children's Hospital,1100,4.9,1325,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1084,Dr. Venkatesan Krishnamurthy,Cardiology,"MBBS, MRCP",28,Kolkata,West Bengal,Apollo Gleneagles Kolkata,2800,4.9,1753,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1085,Dr. Mathew Subramaniam,Orthopaedics,"MBBS, DNB",31,Bengaluru,Karnataka,Apollo Spectra Koramangala,2500,4.8,778,Mon-Fri,20,Yes,Yes
+DOC1086,Dr. Vivek Ahmad,General Physician,"MBBS, MCh",6,Delhi,Delhi,Apollo Cradle Moti Nagar,700,4.6,23,Mon-Sat,15,Yes,Yes
+DOC1087,Dr. Samuel Pillai,Pulmonology,"MBBS, DM",31,Delhi,Delhi,Apollo Cradle Moti Nagar,2600,4.4,1435,Mon-Wed-Fri-Sat,30,No,Yes
+DOC1088,Dr. Venkatesan Venkataraman,Ophthalmology,"MBBS, DM",6,Hyderabad,Telangana,Apollo Hospital Secunderabad,1500,4.8,132,Mon-Fri,20,Yes,Yes
+DOC1089,Dr. Zainab Joshi,Gastroenterology,"MBBS, MD, PhD",15,Chennai,Tamil Nadu,Apollo Children's Hospital,2200,4.7,2046,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1090,Dr. Aditya Rao,Dermatology,"MBBS, DM",25,Kolkata,West Bengal,Apollo Clinic Salt Lake,1800,4.4,1656,Mon-Sat,15,Yes,Yes
+DOC1091,Dr. Philip Krishnamurthy,General Physician,"MBBS, MCh",16,Delhi,Delhi,Apollo Hospital Sarita Vihar,800,4.8,255,Mon-Fri,20,Yes,Yes
+DOC1092,Dr. Meena Venkataraman,Urology,"MBBS, MD",12,Hyderabad,Telangana,Apollo Clinic Banjara Hills,2300,4.7,892,Mon-Fri,20,Yes,Yes
+DOC1093,Dr. Naveen Thomas,Neurology,"MBBS, DNB",4,Ahmedabad,Gujarat,Apollo Clinic SG Highway,1900,4.8,151,Mon-Sat,10,Yes,Yes
+DOC1094,Dr. Philip Iyer,Paediatrics,"MBBS, MD, PhD",19,Bengaluru,Karnataka,Apollo Hospital Bannerghatta,1200,4.3,2489,Mon-Sat,20,No,Yes
+DOC1095,Dr. Ramesh Mehta,Orthopaedics,"MBBS, MRCP",2,Chennai,Tamil Nadu,Apollo Hospital Greams Road,1600,4.7,2171,Mon-Sat,15,Yes,No
+DOC1096,Dr. Girish Patel,General Physician,"MBBS, DM",7,Kolkata,West Bengal,Apollo Gleneagles Kolkata,700,4.9,1666,Mon-Wed-Fri-Sat,15,No,Yes
+DOC1097,Dr. Thomas Venkataraman,Gynaecology,"MBBS, MS, FRCS",8,Kolkata,West Bengal,Apollo Clinic Salt Lake,1600,4.5,2263,Mon-Sat,10,Yes,No
+DOC1098,Dr. Savita Krishnamurthy,Neurology,"MBBS, MS",28,Chennai,Tamil Nadu,Apollo Hospital Greams Road,3200,4.5,1920,Mon-Fri,15,Yes,Yes
+DOC1099,Dr. Ashok Joshi,Dermatology,"MBBS, MRCP",30,Delhi,Delhi,Apollo Cradle Moti Nagar,1900,4.5,813,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1100,Dr. Naveen Thomas,Dermatology,"MBBS, MCh",12,Mumbai,Maharashtra,Apollo Clinic Andheri,1500,4.9,365,Mon-Wed-Fri-Sat,10,Yes,Yes
+DOC1101,Dr. Jaya Joshi,General Physician,"MBBS, MS",14,Coimbatore,Tamil Nadu,Apollo Clinic Coimbatore,700,4.6,375,Mon-Fri,20,Yes,Yes
+DOC1102,Dr. Suresh Gupta,Neurology,"MBBS, MCh",6,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,2000,4.5,1033,Mon-Wed-Fri-Sat,10,No,No
+DOC1103,Dr. Girish Thomas,General Physician,"MBBS, MS, FRCS",10,Delhi,Delhi,Apollo Spectra Delhi,700,4.8,1665,Mon-Wed-Fri-Sat,30,Yes,No
+DOC1104,Dr. Anand Joshi,Ophthalmology,"MBBS, MD, PhD",2,Mumbai,Maharashtra,Apollo Clinic Andheri,1400,4.0,1352,Tue-Sun,10,Yes,Yes
+DOC1105,Dr. Pradeep Philip,Ophthalmology,"MBBS, MCh",22,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1900,4.7,405,Mon-Sat,15,No,No
+DOC1106,Dr. Thomas Krishnamurthy,Orthopaedics,"MBBS, DNB",28,Hyderabad,Telangana,Apollo Clinic Banjara Hills,2400,4.6,683,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1107,Dr. Zainab Joshi,General Physician,"MBBS, MD, PhD",22,Chennai,Tamil Nadu,Apollo Children's Hospital,800,4.1,2223,Mon-Sat,15,Yes,Yes
+DOC1108,Dr. Mathew Venkataraman,Gynaecology,"MBBS, MS, FRCS",18,Mumbai,Maharashtra,Apollo Clinic Andheri,1900,4.5,1744,Mon-Sat,30,Yes,Yes
+DOC1109,Dr. Rohit Subramaniam,Cardiology,"MBBS, MS",14,Mumbai,Maharashtra,Apollo Spectra Mumbai,2300,4.1,2352,Mon-Sat,30,No,Yes
+DOC1110,Dr. Jaya Naidu,Dermatology,"MBBS, MD, PhD",17,Kolkata,West Bengal,Apollo Clinic Park Street,1600,4.2,2181,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1111,Dr. Vivek Menon,Neurology,"MBBS, DNB",5,Chennai,Tamil Nadu,Apollo Children's Hospital,2300,4.7,2154,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1112,Dr. Karthik Thomas,Ophthalmology,"MBBS, DNB",8,Kochi,Kerala,Apollo Clinic MG Road,1300,4.3,1307,Mon-Sat,30,Yes,Yes
+DOC1113,Dr. Deepa Iyer,Cardiology,"MBBS, MS",15,Delhi,Delhi,Apollo Cradle Moti Nagar,2400,4.9,349,Mon-Fri,30,Yes,No
+DOC1114,Dr. Vivek Joshi,General Physician,"MBBS, MRCP",20,Delhi,Delhi,Apollo Spectra Delhi,800,4.4,1940,Mon-Fri,30,Yes,Yes
+DOC1115,Dr. Jaya Ahmad,Dermatology,"MBBS, DNB",11,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,1300,4.8,824,Tue-Sun,30,Yes,No
+DOC1116,Dr. Vivek Sharma,Gynaecology,"MBBS, MCh",3,Hyderabad,Telangana,Apollo Clinic Banjara Hills,1500,4.7,2126,Tue-Sun,30,Yes,Yes
+DOC1117,Dr. Philip Raghunathan,Neurology,"MBBS, MD, PhD",18,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,2500,4.3,1324,Mon-Wed-Fri-Sat,20,Yes,No
+DOC1118,Dr. Karthik Khan,General Physician,"MBBS, MS, FRCS",12,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,700,4.4,2195,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1119,Dr. Philip Thomas,Paediatrics,"MBBS, MS, FRCS",7,Delhi,Delhi,Apollo Spectra Delhi,1000,4.8,361,Mon-Fri,30,Yes,Yes
+DOC1120,Dr. Ayesha Rao,Endocrinology,"MBBS, MRCP",7,Delhi,Delhi,Apollo Hospital Sarita Vihar,1900,4.0,1728,Mon-Wed-Fri-Sat,10,Yes,Yes
+DOC1121,Dr. Usha Patel,Dermatology,"MBBS, MRCP",31,Lucknow,Uttar Pradesh,Apollo Clinic Gomti Nagar,1800,4.6,813,Tue-Sun,30,Yes,Yes
+DOC1122,Dr. Lakshmi Subramaniam,Ophthalmology,"MBBS, MRCP",12,Delhi,Delhi,Apollo Cradle Moti Nagar,1600,4.8,117,Mon-Sat,10,Yes,No
+DOC1123,Dr. Naveen Kumar,Urology,"MBBS, MS",23,Hyderabad,Telangana,Apollo Hospital Secunderabad,2700,4.6,384,Mon-Sat,10,No,Yes
+DOC1124,Dr. Girish Sharma,Paediatrics,"MBBS, MD",3,Mumbai,Maharashtra,Apollo Spectra Mumbai,900,4.4,958,Mon-Sat,20,Yes,Yes
+DOC1125,Dr. Jacob Nair,Orthopaedics,"MBBS, DM",4,Kolkata,West Bengal,Apollo Clinic Park Street,1600,4.4,2342,Mon-Wed-Fri-Sat,15,Yes,Yes
+DOC1126,Dr. Venkatesan Ahmad,Ophthalmology,"MBBS, MS, FRCS",18,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1800,4.7,1361,Mon-Fri,30,Yes,Yes
+DOC1127,Dr. George Siddiqui,Neurology,"MBBS, MCh",22,Coimbatore,Tamil Nadu,Apollo Spectra Coimbatore,2600,4.5,1132,Tue-Sun,10,No,Yes
+DOC1128,Dr. Rekha Patel,ENT,"MBBS, MRCP",10,Kolkata,West Bengal,Apollo Clinic Salt Lake,1300,4.6,648,Tue-Sun,30,Yes,Yes
+DOC1129,Dr. Girish Singh,General Physician,"MBBS, MS, FRCS",9,Ahmedabad,Gujarat,Apollo Clinic SG Highway,600,4.7,954,Mon-Sat,15,No,No
+DOC1130,Dr. Zainab Khan,Gynaecology,"MBBS, MCh",8,Hyderabad,Telangana,Apollo Clinic Banjara Hills,1600,4.9,1141,Tue-Sun,10,No,Yes
+DOC1131,Dr. Ashok Khan,Gynaecology,"MBBS, MD",27,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,2000,4.7,1392,Tue-Sun,15,Yes,Yes
+DOC1132,Dr. Jaya Ahmad,Gastroenterology,"MBBS, MCh",2,Pune,Maharashtra,Apollo Clinic Kharadi,1800,4.9,565,Mon-Fri,10,Yes,Yes
+DOC1133,Dr. Thomas Reddy,Psychiatry,"MBBS, MD, PhD",14,Delhi,Delhi,Apollo Cradle Moti Nagar,2900,4.1,2444,Mon-Fri,10,Yes,Yes
+DOC1134,Dr. Samuel Gupta,Orthopaedics,"MBBS, DM",8,Jaipur,Rajasthan,Apollo Spectra Jaipur,1500,4.9,165,Tue-Sun,20,Yes,Yes
+DOC1135,Dr. Philip Mathew,General Physician,"MBBS, MCh",2,Mumbai,Maharashtra,Apollo Clinic Andheri,600,4.8,1848,Tue-Sun,10,No,Yes
+DOC1136,Dr. Usha Philip,General Physician,"MBBS, DM",7,Jaipur,Rajasthan,Apollo Clinic Malviya Nagar,600,4.6,2293,Tue-Sun,10,No,Yes
+DOC1137,Dr. Rohit Menon,Pulmonology,"MBBS, MS",28,Mumbai,Maharashtra,Apollo Spectra Mumbai,2500,4.8,1409,Tue-Sun,20,No,No
+DOC1138,Dr. Radhika Rao,General Physician,"MBBS, DM",27,Mumbai,Maharashtra,Apollo Spectra Mumbai,900,4.6,1564,Mon-Sat,20,Yes,No
+DOC1139,Dr. Ramesh Siddiqui,Pulmonology,"MBBS, MRCP",30,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,2400,4.3,2396,Mon-Wed-Fri-Sat,10,Yes,Yes
+DOC1140,Dr. Anand Venkataraman,Psychiatry,"MBBS, MRCP",12,Indore,Madhya Pradesh,Apollo Spectra Indore,2500,4.7,940,Mon-Sat,15,Yes,Yes
+DOC1141,Dr. George Raghunathan,General Physician,"MBBS, MS, FRCS",16,Chandigarh,Punjab,Apollo Clinic Sector 8,700,4.8,994,Mon-Wed-Fri-Sat,10,No,No
+DOC1142,Dr. Samuel Krishnamurthy,ENT,"MBBS, MD",17,Delhi,Delhi,Apollo Cradle Moti Nagar,1500,4.8,1344,Tue-Sun,15,No,Yes
+DOC1143,Dr. Karthik Raghunathan,Paediatrics,"MBBS, MS",27,Hyderabad,Telangana,Apollo Clinic Banjara Hills,1400,4.5,1332,Tue-Sun,20,Yes,Yes
+DOC1144,Dr. Vivek Singh,Neurology,"MBBS, MS",9,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,2100,4.8,1736,Mon-Sat,15,Yes,Yes
+DOC1145,Dr. Ayesha Kumar,Paediatrics,"MBBS, DNB",7,Pune,Maharashtra,Apollo Clinic Kharadi,1000,4.3,2430,Mon-Fri,10,Yes,No
+DOC1146,Dr. Savita Kumar,Endocrinology,"MBBS, MD, PhD",19,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,2200,4.6,1267,Mon-Sat,20,Yes,Yes
+DOC1147,Dr. Rohit Mathew,Dermatology,"MBBS, DNB",10,Delhi,Delhi,Apollo Hospital Sarita Vihar,1500,4.6,694,Mon-Sat,15,Yes,Yes
+DOC1148,Dr. Karthik Khan,Cardiology,"MBBS, MD, PhD",8,Delhi,Delhi,Apollo Hospital Sarita Vihar,2100,4.5,1265,Mon-Fri,20,Yes,Yes
+DOC1149,Dr. Samuel Naidu,Neurology,"MBBS, MS",21,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,2600,4.7,937,Mon-Wed-Fri-Sat,30,Yes,No
+DOC1150,Dr. Harish Iyer,Orthopaedics,"MBBS, DM",23,Pune,Maharashtra,Apollo Clinic Kharadi,2200,4.7,1050,Mon-Sat,20,No,No
+DOC1151,Dr. Pradeep Reddy,Ophthalmology,"MBBS, MRCP",16,Delhi,Delhi,Apollo Spectra Delhi,1700,4.5,1473,Mon-Wed-Fri-Sat,10,No,No
+DOC1152,Dr. Thomas Patel,Urology,"MBBS, MS",4,Hyderabad,Telangana,Apollo Hospital Secunderabad,2000,4.7,1843,Mon-Fri,10,Yes,Yes
+DOC1153,Dr. Fatima Mehta,ENT,"MBBS, MCh",23,Delhi,Delhi,Apollo Spectra Delhi,1600,4.9,953,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1154,Dr. Savita Joshi,General Physician,"MBBS, MRCP",18,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,800,4.3,1627,Mon-Wed-Fri-Sat,20,No,Yes
+DOC1155,Dr. Samuel George,General Physician,"MBBS, MS",30,Mumbai,Maharashtra,Apollo Spectra Mumbai,900,4.5,2454,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1156,Dr. Usha Ansari,Cardiology,"MBBS, MRCP",25,Jaipur,Rajasthan,Apollo Spectra Jaipur,2500,4.4,2273,Mon-Sat,10,Yes,Yes
+DOC1157,Dr. Harish George,Paediatrics,"MBBS, MD, PhD",21,Kolkata,West Bengal,Apollo Gleneagles Kolkata,1300,4.7,1033,Mon-Sat,20,Yes,Yes
+DOC1158,Dr. Zainab Ansari,Paediatrics,"MBBS, MS, FRCS",9,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1100,4.5,1363,Mon-Sat,20,Yes,Yes
+DOC1159,Dr. Harish Khan,Pulmonology,"MBBS, DM",7,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,1900,4.4,1435,Mon-Wed-Fri-Sat,15,Yes,Yes
+DOC1160,Dr. Radhika Rao,Gastroenterology,"MBBS, MCh",10,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,1800,4.1,733,Mon-Wed-Fri-Sat,10,Yes,Yes
+DOC1161,Dr. Meena Krishnamurthy,Urology,"MBBS, MCh",2,Jaipur,Rajasthan,Apollo Clinic Malviya Nagar,1600,4.7,2183,Tue-Sun,10,Yes,Yes
+DOC1162,Dr. Padma Patel,Dermatology,"MBBS, DNB",7,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1400,4.3,906,Mon-Sat,10,Yes,Yes
+DOC1163,Dr. Samuel Iyer,Urology,"MBBS, MD, PhD",30,Pune,Maharashtra,Apollo Clinic Baner,2900,4.7,1307,Tue-Sun,20,Yes,No
+DOC1164,Dr. Venkatesan Reddy,Paediatrics,"MBBS, DNB",21,Coimbatore,Tamil Nadu,Apollo Clinic Coimbatore,1100,4.5,429,Mon-Sat,10,Yes,Yes
+DOC1165,Dr. Jacob Pillai,General Physician,"MBBS, MRCP",29,Hyderabad,Telangana,Apollo Hospital Secunderabad,900,4.8,2189,Tue-Sun,15,Yes,Yes
+DOC1166,Dr. Jacob Rao,Orthopaedics,"MBBS, MCh",14,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1900,4.4,2009,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1167,Dr. Padma Ahmad,Cardiology,"MBBS, MD",25,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,2500,4.9,2160,Mon-Fri,20,Yes,Yes
+DOC1168,Dr. Rohit Venkataraman,General Physician,"MBBS, MD, PhD",8,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,700,4.6,423,Mon-Sat,30,No,Yes
+DOC1169,Dr. Shobha Mehta,Gastroenterology,"MBBS, DM",31,Kolkata,West Bengal,Apollo Clinic Park Street,2800,4.9,1555,Tue-Sun,10,No,No
+DOC1170,Dr. Anand Joshi,Paediatrics,"MBBS, MD",5,Kolkata,West Bengal,Apollo Clinic Salt Lake,1000,4.7,1311,Mon-Sat,20,No,No
+DOC1171,Dr. Padma Thomas,Orthopaedics,"MBBS, MS, FRCS",22,Bengaluru,Karnataka,Apollo Spectra Koramangala,2200,4.3,1642,Mon-Sat,30,Yes,Yes
+DOC1172,Dr. Rekha Mathew,Dermatology,"MBBS, MRCP",3,Kolkata,West Bengal,Apollo Clinic Park Street,1300,4.6,1871,Tue-Sun,10,No,Yes
+DOC1173,Dr. Karthik Joshi,Paediatrics,"MBBS, MS, FRCS",8,Hyderabad,Telangana,Apollo Clinic Banjara Hills,1000,4.9,2060,Mon-Sat,30,Yes,No
+DOC1174,Dr. Ayesha Kumar,Psychiatry,"MBBS, MD, PhD",6,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,2500,4.8,2354,Mon-Sat,10,Yes,Yes
+DOC1175,Dr. Zainab George,General Physician,"MBBS, DNB",15,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,800,4.2,2200,Mon-Sat,15,Yes,Yes
+DOC1176,Dr. Meena Ahmad,Paediatrics,"MBBS, DNB",2,Mumbai,Maharashtra,Apollo Clinic Andheri,900,4.9,2040,Mon-Sat,15,No,Yes
+DOC1177,Dr. Thomas Ansari,Neurology,"MBBS, MD, PhD",25,Chennai,Tamil Nadu,Apollo Clinic Adyar,3000,4.1,976,Tue-Sun,15,No,Yes
+DOC1178,Dr. Philip Iyer,Pulmonology,"MBBS, MCh",10,Delhi,Delhi,Apollo Spectra Delhi,2000,4.7,1204,Mon-Sat,20,Yes,Yes
+DOC1179,Dr. George Iyer,General Physician,"MBBS, MD",11,Chennai,Tamil Nadu,Apollo Hospital Greams Road,700,3.9,236,Tue-Sun,20,Yes,No
+DOC1180,Dr. Venkatesan Ahmad,Psychiatry,"MBBS, MS, FRCS",25,Kolkata,West Bengal,Apollo Clinic Salt Lake,3400,4.1,2451,Mon-Sat,30,Yes,Yes
+DOC1181,Dr. Philip Naidu,General Physician,"MBBS, DNB",19,Delhi,Delhi,Apollo Hospital Sarita Vihar,800,4.6,536,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1182,Dr. Venkatesan Naidu,Cardiology,"MBBS, DNB",2,Kochi,Kerala,Apollo Adlux Hospital Kochi,1600,4.5,322,Mon-Fri,30,No,No
+DOC1183,Dr. Rekha Raghunathan,General Physician,"MBBS, MD, PhD",9,Chennai,Tamil Nadu,Apollo Children's Hospital,700,4.6,1697,Mon-Wed-Fri-Sat,30,Yes,No
+DOC1184,Dr. Suresh Mathew,ENT,"MBBS, MD, PhD",27,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,1700,4.6,1132,Tue-Sun,10,No,Yes
+DOC1185,Dr. Rohit George,Neurology,"MBBS, DNB",14,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,2300,4.4,1687,Mon-Sat,15,Yes,Yes
+DOC1186,Dr. Padma Nair,Ophthalmology,"MBBS, MS",19,Pune,Maharashtra,Apollo Spectra Pune,1800,4.3,841,Mon-Wed-Fri-Sat,20,Yes,No
+DOC1187,Dr. Venkatesan Siddiqui,Dermatology,"MBBS, MS, FRCS",2,Kolkata,West Bengal,Apollo Clinic Park Street,1300,4.2,1516,Tue-Sun,10,Yes,Yes
+DOC1188,Dr. Meena Singh,Gynaecology,"MBBS, MD, PhD",4,Kolkata,West Bengal,Apollo Clinic Salt Lake,1500,4.5,981,Mon-Fri,15,Yes,Yes
+DOC1189,Dr. Ramesh Venkataraman,Dermatology,"MBBS, MS",27,Hyderabad,Telangana,Apollo Clinic Banjara Hills,1900,4.5,1783,Mon-Sat,20,Yes,No
+DOC1190,Dr. Lakshmi Nair,Neurology,"MBBS, DNB",7,Kolkata,West Bengal,Apollo Gleneagles Kolkata,2300,4.4,1034,Mon-Fri,30,Yes,Yes
+DOC1191,Dr. Radhika Ansari,General Physician,"MBBS, DM",16,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,700,4.8,1936,Tue-Sun,30,Yes,No
+DOC1192,Dr. Karthik Venkataraman,Gynaecology,"MBBS, MRCP",15,Kolkata,West Bengal,Apollo Gleneagles Kolkata,1800,4.7,1463,Tue-Sun,30,No,Yes
+DOC1193,Dr. Lakshmi Naidu,Dermatology,"MBBS, MS, FRCS",14,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,1400,4.8,1082,Mon-Fri,15,Yes,Yes
+DOC1194,Dr. Philip Raghunathan,Gastroenterology,"MBBS, MS",25,Chennai,Tamil Nadu,Apollo Clinic Adyar,2600,4.8,1215,Mon-Sat,20,Yes,Yes
+DOC1195,Dr. Vivek Iyer,Paediatrics,"MBBS, DNB",28,Delhi,Delhi,Apollo Spectra Delhi,1400,4.6,540,Mon-Sat,15,No,Yes
+DOC1196,Dr. Pradeep Joshi,General Physician,"MBBS, MD",26,Kolkata,West Bengal,Apollo Clinic Salt Lake,900,4.8,1336,Tue-Sun,15,No,Yes
+DOC1197,Dr. Radhika Kumar,Gastroenterology,"MBBS, MD",5,Bengaluru,Karnataka,Apollo Spectra Koramangala,1900,4.8,1482,Mon-Sat,20,Yes,Yes
+DOC1198,Dr. Anand Venkataraman,General Physician,"MBBS, MRCP",4,Kolkata,West Bengal,Apollo Clinic Park Street,600,4.1,2486,Mon-Fri,30,No,No
+DOC1199,Dr. Ashok Patel,Gynaecology,"MBBS, MD",11,Kolkata,West Bengal,Apollo Clinic Salt Lake,1700,4.5,1363,Mon-Fri,15,No,Yes
+DOC1200,Dr. Naveen Kumar,ENT,"MBBS, MCh",4,Delhi,Delhi,Apollo Hospital Sarita Vihar,1200,4.2,719,Mon-Sat,15,No,No
+DOC1201,Dr. George Patel,Paediatrics,"MBBS, MS",7,Lucknow,Uttar Pradesh,Apollo Clinic Gomti Nagar,900,4.7,372,Mon-Sat,15,Yes,Yes
+DOC1202,Dr. Jacob Sharma,Dermatology,"MBBS, MD, PhD",2,Kolkata,West Bengal,Apollo Gleneagles Kolkata,1300,4.7,975,Mon-Wed-Fri-Sat,15,Yes,No
+DOC1203,Dr. Radhika Patel,Cardiology,"MBBS, MD",22,Lucknow,Uttar Pradesh,Apollo Clinic Gomti Nagar,2400,4.2,77,Mon-Wed-Fri-Sat,10,No,Yes
+DOC1204,Dr. Rohit George,ENT,"MBBS, MD",24,Bengaluru,Karnataka,Apollo Spectra Koramangala,1600,5.0,1485,Mon-Sat,20,Yes,No
+DOC1205,Dr. Harish Philip,General Physician,"MBBS, MD, PhD",16,Coimbatore,Tamil Nadu,Apollo Clinic Coimbatore,700,4.8,676,Mon-Sat,20,Yes,No
+DOC1206,Dr. Meena Philip,Pulmonology,"MBBS, MRCP",4,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1800,4.8,1560,Mon-Wed-Fri-Sat,15,Yes,Yes
+DOC1207,Dr. George Reddy,Neurology,"MBBS, MCh",2,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,1800,3.8,1786,Mon-Sat,15,Yes,Yes
+DOC1208,Dr. Girish Naidu,Paediatrics,"MBBS, MS, FRCS",13,Chandigarh,Punjab,Apollo Clinic Panchkula,1000,4.9,360,Tue-Sun,10,Yes,Yes
+DOC1209,Dr. Zainab Philip,Cardiology,"MBBS, MD",2,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1900,4.8,330,Tue-Sun,20,Yes,Yes
+DOC1210,Dr. Jacob Mehta,Neurology,"MBBS, MRCP",16,Mumbai,Maharashtra,Apollo Spectra Mumbai,2700,4.5,613,Tue-Sun,15,No,No
+DOC1211,Dr. Mathew Raghunathan,ENT,"MBBS, MCh",11,Kolkata,West Bengal,Apollo Gleneagles Kolkata,1300,4.6,92,Mon-Wed-Fri-Sat,10,No,No
+DOC1212,Dr. Meena Menon,General Physician,"MBBS, MCh",28,Bengaluru,Karnataka,Apollo Spectra Koramangala,900,4.1,1580,Mon-Sat,10,Yes,No
+DOC1213,Dr. Naveen Venkataraman,Orthopaedics,"MBBS, MRCP",2,Chennai,Tamil Nadu,Apollo Clinic Adyar,1600,4.4,2448,Mon-Wed-Fri-Sat,15,No,Yes
+DOC1214,Dr. Thomas Reddy,Urology,"MBBS, MD, PhD",7,Bengaluru,Karnataka,Apollo Clinic Jayanagar,2100,4.8,556,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1215,Dr. Padma Raghunathan,General Physician,"MBBS, DNB",13,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,700,4.5,1701,Mon-Fri,30,Yes,Yes
+DOC1216,Dr. Ramesh Kumar,Psychiatry,"MBBS, MD, PhD",30,Bengaluru,Karnataka,Apollo Spectra Koramangala,3600,4.7,1560,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1217,Dr. Thomas Raghunathan,Orthopaedics,"MBBS, MD, PhD",3,Jaipur,Rajasthan,Apollo Clinic Malviya Nagar,1400,4.8,1002,Mon-Sat,15,Yes,Yes
+DOC1218,Dr. Fatima Siddiqui,General Physician,"MBBS, MCh",10,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,700,4.3,628,Mon-Sat,10,Yes,Yes
+DOC1219,Dr. Lakshmi Menon,Pulmonology,"MBBS, MS",18,Chennai,Tamil Nadu,Apollo Children's Hospital,2200,4.7,441,Tue-Sun,30,Yes,No
+DOC1220,Dr. Naveen Thomas,General Physician,"MBBS, MRCP",21,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,800,4.9,1569,Mon-Sat,15,Yes,Yes
+DOC1221,Dr. Meena Thomas,Dermatology,"MBBS, MRCP",6,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,1400,4.7,1931,Tue-Sun,20,Yes,No
+DOC1222,Dr. Naveen Venkataraman,General Physician,"MBBS, DNB",22,Chennai,Tamil Nadu,Apollo Clinic Adyar,800,4.4,691,Mon-Fri,20,Yes,Yes
+DOC1223,Dr. Jaya Mathew,General Physician,"MBBS, DNB",29,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,900,4.1,1751,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1224,Dr. Radhika Iyer,Cardiology,"MBBS, DNB",19,Chandigarh,Punjab,Apollo Clinic Sector 8,2300,4.4,2088,Mon-Sat,20,No,No
+DOC1225,Dr. Philip Naidu,General Physician,"MBBS, MS, FRCS",18,Coimbatore,Tamil Nadu,Apollo Spectra Coimbatore,700,4.7,1140,Mon-Sat,15,Yes,No
+DOC1226,Dr. Ramesh Iyer,General Physician,"MBBS, MRCP",29,Chandigarh,Punjab,Apollo Clinic Panchkula,800,4.6,2267,Mon-Fri,15,Yes,Yes
+DOC1227,Dr. Suresh Rao,Psychiatry,"MBBS, DNB",24,Mumbai,Maharashtra,Apollo Spectra Mumbai,3300,4.5,2168,Mon-Fri,15,Yes,No
+DOC1228,Dr. Aditya Raghunathan,General Physician,"MBBS, MCh",24,Delhi,Delhi,Apollo Hospital Sarita Vihar,900,4.6,1688,Tue-Sun,15,Yes,Yes
+DOC1229,Dr. Girish Ahmad,Dermatology,"MBBS, MS",15,Chennai,Tamil Nadu,Apollo Clinic Adyar,1600,4.9,1363,Mon-Fri,15,Yes,No
+DOC1230,Dr. Ayesha Khan,General Physician,"MBBS, MD",17,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,800,4.4,1847,Mon-Sat,10,Yes,No
+DOC1231,Dr. Savita Philip,Neurology,"MBBS, MS, FRCS",10,Kolkata,West Bengal,Apollo Clinic Park Street,2500,4.5,671,Mon-Sat,30,Yes,No
+DOC1232,Dr. Girish Pillai,General Physician,"MBBS, DM",14,Hyderabad,Telangana,Apollo Clinic Banjara Hills,700,4.7,542,Mon-Wed-Fri-Sat,20,No,Yes
+DOC1233,Dr. Suresh Gupta,General Physician,"MBBS, MRCP",19,Delhi,Delhi,Apollo Spectra Delhi,800,4.8,2481,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1234,Dr. Usha Subramaniam,ENT,"MBBS, MD, PhD",20,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,1400,4.5,58,Mon-Wed-Fri-Sat,15,Yes,No
+DOC1235,Dr. Harish Subramaniam,Endocrinology,"MBBS, DM",19,Chandigarh,Punjab,Apollo Clinic Panchkula,2000,4.3,2305,Mon-Sat,20,No,Yes
+DOC1236,Dr. Usha Rao,ENT,"MBBS, MD",12,Jaipur,Rajasthan,Apollo Clinic Malviya Nagar,1200,4.9,789,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1237,Dr. Fatima Khan,Gastroenterology,"MBBS, MD, PhD",28,Delhi,Delhi,Apollo Hospital Sarita Vihar,2700,4.5,2345,Mon-Fri,30,No,Yes
+DOC1238,Dr. Girish Pillai,Paediatrics,"MBBS, MD",25,Chennai,Tamil Nadu,Apollo Hospital Greams Road,1300,4.5,2175,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1239,Dr. Zainab Reddy,Neurology,"MBBS, MD",16,Kolkata,West Bengal,Apollo Clinic Salt Lake,2700,4.9,534,Mon-Wed-Fri-Sat,30,Yes,No
+DOC1240,Dr. Ashok Rao,General Physician,"MBBS, MS, FRCS",11,Kochi,Kerala,Apollo Adlux Hospital Kochi,600,4.1,1774,Tue-Sun,20,No,Yes
+DOC1241,Dr. Anand Mehta,Dermatology,"MBBS, MD",14,Mumbai,Maharashtra,Apollo Clinic Andheri,1500,4.3,2276,Mon-Fri,20,Yes,Yes
+DOC1242,Dr. Lakshmi Naidu,Gastroenterology,"MBBS, MRCP",22,Delhi,Delhi,Apollo Cradle Moti Nagar,2500,4.8,1144,Tue-Sun,10,Yes,Yes
+DOC1243,Dr. Padma Raghunathan,Dermatology,"MBBS, MD, PhD",5,Delhi,Delhi,Apollo Cradle Moti Nagar,1300,4.6,1512,Tue-Sun,15,Yes,No
+DOC1244,Dr. Padma Naidu,General Physician,"MBBS, MD",11,Delhi,Delhi,Apollo Hospital Sarita Vihar,700,4.0,545,Mon-Sat,15,Yes,Yes
+DOC1245,Dr. George Nair,General Physician,"MBBS, DNB",27,Ahmedabad,Gujarat,Apollo Clinic SG Highway,800,4.4,613,Tue-Sun,15,No,No
+DOC1246,Dr. Girish Khan,General Physician,"MBBS, MD, PhD",20,Kolkata,West Bengal,Apollo Clinic Park Street,800,4.5,561,Mon-Wed-Fri-Sat,20,No,Yes
+DOC1247,Dr. Radhika Subramaniam,General Physician,"MBBS, MS",5,Kochi,Kerala,Apollo Clinic MG Road,600,3.9,1226,Tue-Sun,10,No,Yes
+DOC1248,Dr. Aditya George,Dermatology,"MBBS, MD",18,Mumbai,Maharashtra,Apollo Clinic Andheri,1600,4.9,1795,Mon-Wed-Fri-Sat,15,No,Yes
+DOC1249,Dr. Karthik Reddy,ENT,"MBBS, MS",16,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,1500,4.6,1548,Mon-Sat,30,Yes,Yes
+DOC1250,Dr. Usha Joshi,Pulmonology,"MBBS, DM",4,Chennai,Tamil Nadu,Apollo Children's Hospital,1800,4.3,1469,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1251,Dr. Savita Menon,Cardiology,"MBBS, MD, PhD",6,Chandigarh,Punjab,Apollo Clinic Panchkula,1800,4.2,2328,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1252,Dr. Ayesha Menon,Paediatrics,"MBBS, MD, PhD",31,Pune,Maharashtra,Apollo Clinic Kharadi,1500,4.6,1225,Tue-Sun,30,Yes,Yes
+DOC1253,Dr. Vivek Menon,General Physician,"MBBS, MCh",26,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,900,4.4,895,Tue-Sun,20,Yes,No
+DOC1254,Dr. Mathew Subramaniam,General Physician,"MBBS, MRCP",8,Delhi,Delhi,Apollo Spectra Delhi,700,4.7,2034,Tue-Sun,20,Yes,No
+DOC1255,Dr. Lakshmi Mehta,Neurology,"MBBS, MD, PhD",13,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,2600,4.7,894,Tue-Sun,10,Yes,No
+DOC1256,Dr. Venkatesan Raghunathan,Gynaecology,"MBBS, MRCP",2,Delhi,Delhi,Apollo Cradle Moti Nagar,1500,4.6,1191,Tue-Sun,30,Yes,Yes
+DOC1257,Dr. Vivek Menon,Psychiatry,"MBBS, MCh",22,Delhi,Delhi,Apollo Hospital Sarita Vihar,3200,4.8,2381,Mon-Sat,15,Yes,Yes
+DOC1258,Dr. Aditya Siddiqui,General Physician,"MBBS, DM",24,Kochi,Kerala,Apollo Adlux Hospital Kochi,800,4.9,403,Mon-Sat,30,Yes,No
+DOC1259,Dr. Philip Rao,General Physician,"MBBS, DNB",2,Kochi,Kerala,Apollo Adlux Hospital Kochi,500,4.7,2356,Mon-Fri,30,No,Yes
+DOC1260,Dr. Jaya Philip,General Physician,"MBBS, MCh",3,Chennai,Tamil Nadu,Apollo Children's Hospital,600,5.0,1653,Tue-Sun,10,Yes,No
+DOC1261,Dr. Aditya Menon,Orthopaedics,"MBBS, MD",2,Delhi,Delhi,Apollo Hospital Sarita Vihar,1600,4.6,117,Mon-Wed-Fri-Sat,15,Yes,Yes
+DOC1262,Dr. Mathew Gupta,Orthopaedics,"MBBS, MCh",8,Chandigarh,Punjab,Apollo Clinic Sector 8,1500,4.5,630,Mon-Sat,20,Yes,Yes
+DOC1263,Dr. Naveen Iyer,Neurology,"MBBS, MRCP",8,Delhi,Delhi,Apollo Hospital Sarita Vihar,2400,4.4,1698,Mon-Wed-Fri-Sat,20,Yes,Yes
+DOC1264,Dr. Ayesha Gupta,Psychiatry,"MBBS, MRCP",23,Mumbai,Maharashtra,Apollo Clinic Andheri,3300,4.7,900,Tue-Sun,15,Yes,No
+DOC1265,Dr. Ayesha Mathew,General Physician,"MBBS, MCh",31,Delhi,Delhi,Apollo Cradle Moti Nagar,1000,4.7,1834,Mon-Fri,15,No,Yes
+DOC1266,Dr. Fatima Patel,Dermatology,"MBBS, MS, FRCS",20,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,1500,4.5,495,Mon-Fri,15,No,Yes
+DOC1267,Dr. Karthik Sharma,Cardiology,"MBBS, MCh",9,Ahmedabad,Gujarat,Apollo Clinic SG Highway,1900,4.2,487,Mon-Fri,30,Yes,Yes
+DOC1268,Dr. Girish Khan,General Physician,"MBBS, MD",17,Chennai,Tamil Nadu,Apollo Children's Hospital,800,4.7,1935,Tue-Sun,15,Yes,No
+DOC1269,Dr. Deepa Iyer,Cardiology,"MBBS, MCh",31,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,2700,4.5,1172,Mon-Wed-Fri-Sat,20,Yes,No
+DOC1270,Dr. Naveen Raghunathan,Pulmonology,"MBBS, DM",22,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,2300,4.2,1614,Mon-Fri,30,Yes,Yes
+DOC1271,Dr. Radhika Joshi,General Physician,"MBBS, MRCP",26,Mumbai,Maharashtra,Apollo Clinic Andheri,900,4.4,284,Mon-Fri,15,Yes,No
+DOC1272,Dr. Thomas Naidu,Gynaecology,"MBBS, MD, PhD",20,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,1800,4.5,1001,Mon-Sat,10,Yes,No
+DOC1273,Dr. Usha Gupta,Dermatology,"MBBS, MD, PhD",27,Lucknow,Uttar Pradesh,Apollo Clinic Gomti Nagar,1700,4.7,1718,Mon-Sat,15,No,Yes
+DOC1274,Dr. Thomas Mathew,Dermatology,"MBBS, MD",16,Mumbai,Maharashtra,Apollo Spectra Mumbai,1600,4.9,2340,Mon-Fri,30,No,No
+DOC1275,Dr. Suresh Menon,Orthopaedics,"MBBS, MRCP",16,Chandigarh,Punjab,Apollo Clinic Panchkula,1800,4.5,1090,Mon-Sat,30,Yes,Yes
+DOC1276,Dr. Savita Khan,Psychiatry,"MBBS, MS",29,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,3500,4.7,2210,Mon-Wed-Fri-Sat,20,Yes,No
+DOC1277,Dr. Suresh Patel,General Physician,"MBBS, MRCP",22,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,800,4.8,412,Tue-Sun,30,Yes,Yes
+DOC1278,Dr. Samuel Raghunathan,ENT,"MBBS, MS, FRCS",19,Jaipur,Rajasthan,Apollo Clinic Malviya Nagar,1400,4.7,1397,Mon-Wed-Fri-Sat,30,Yes,No
+DOC1279,Dr. Shobha Siddiqui,Orthopaedics,"MBBS, MD, PhD",5,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,1700,4.6,1550,Mon-Fri,30,Yes,No
+DOC1280,Dr. Aditya Sharma,General Physician,"MBBS, MD",25,Hyderabad,Telangana,Apollo Hospital Secunderabad,900,4.8,1318,Mon-Wed-Fri-Sat,30,No,Yes
+DOC1281,Dr. Karthik Iyer,General Physician,"MBBS, MD, PhD",8,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,600,4.3,806,Tue-Sun,15,Yes,Yes
+DOC1282,Dr. Samuel Ahmad,General Physician,"MBBS, MD",7,Indore,Madhya Pradesh,Apollo Spectra Indore,600,4.2,2401,Mon-Fri,10,Yes,No
+DOC1283,Dr. Anand Iyer,General Physician,"MBBS, MD",5,Ahmedabad,Gujarat,Apollo Hospital Ahmedabad,600,4.8,1105,Mon-Sat,30,No,Yes
+DOC1284,Dr. Savita Philip,General Physician,"MBBS, MD",4,Jaipur,Rajasthan,Apollo Spectra Jaipur,500,4.8,1347,Tue-Sun,15,Yes,No
+DOC1285,Dr. Fatima Kumar,Paediatrics,"MBBS, MCh",2,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,800,4.2,501,Mon-Fri,30,Yes,Yes
+DOC1286,Dr. Suresh Menon,Paediatrics,"MBBS, DNB",14,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,1000,4.5,546,Mon-Wed-Fri-Sat,10,Yes,No
+DOC1287,Dr. Lakshmi Mathew,Endocrinology,"MBBS, MD, PhD",30,Kolkata,West Bengal,Apollo Clinic Park Street,2600,4.8,2415,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1288,Dr. Lakshmi Gupta,Dermatology,"MBBS, MRCP",14,Delhi,Delhi,Apollo Hospital Sarita Vihar,1500,4.9,2281,Mon-Fri,20,Yes,Yes
+DOC1289,Dr. Suresh Menon,Dermatology,"MBBS, MS, FRCS",13,Mumbai,Maharashtra,Apollo Spectra Mumbai,1500,4.7,460,Mon-Fri,30,Yes,Yes
+DOC1290,Dr. Savita Subramaniam,Orthopaedics,"MBBS, MS",9,Bengaluru,Karnataka,Apollo Spectra Koramangala,1800,4.7,720,Tue-Sun,10,Yes,Yes
+DOC1291,Dr. Vivek Mehta,General Physician,"MBBS, MD",31,Delhi,Delhi,Apollo Hospital Sarita Vihar,1000,4.6,1988,Mon-Fri,15,No,Yes
+DOC1292,Dr. Ayesha Venkataraman,Dermatology,"MBBS, MD",23,Mumbai,Maharashtra,Apollo Hospital Navi Mumbai,1800,4.5,875,Mon-Fri,10,No,Yes
+DOC1293,Dr. Savita Mehta,Psychiatry,"MBBS, DM",24,Chennai,Tamil Nadu,Apollo Clinic Adyar,3300,4.4,1376,Tue-Sun,20,No,Yes
+DOC1294,Dr. Zainab Venkataraman,General Physician,"MBBS, MCh",9,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,600,4.8,1972,Mon-Wed-Fri-Sat,30,Yes,No
+DOC1295,Dr. Philip Philip,Urology,"MBBS, MD, PhD",27,Lucknow,Uttar Pradesh,Apollo Medics Lucknow,2500,4.6,2498,Tue-Sun,20,No,Yes
+DOC1296,Dr. Aditya George,Paediatrics,"MBBS, DNB",19,Delhi,Delhi,Apollo Hospital Sarita Vihar,1200,4.9,1794,Tue-Sun,30,Yes,Yes
+DOC1297,Dr. Jaya Subramaniam,Neurology,"MBBS, DM",2,Hyderabad,Telangana,Apollo Hospital Secunderabad,2100,4.7,124,Mon-Fri,30,Yes,Yes
+DOC1298,Dr. Mathew George,Psychiatry,"MBBS, MRCP",14,Kolkata,West Bengal,Apollo Clinic Salt Lake,2900,4.5,648,Mon-Fri,20,Yes,Yes
+DOC1299,Dr. Mathew Gupta,General Physician,"MBBS, MD",17,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,700,4.2,2018,Mon-Sat,10,Yes,Yes
+DOC1300,Dr. Shobha Siddiqui,General Physician,"MBBS, DM",18,Delhi,Delhi,Apollo Hospital Sarita Vihar,800,4.9,2344,Mon-Fri,10,Yes,No
+DOC1301,Dr. George Raghunathan,Orthopaedics,"MBBS, MD",4,Pune,Maharashtra,Apollo Clinic Kharadi,1600,4.8,1909,Mon-Wed-Fri-Sat,30,Yes,Yes
+DOC1302,Dr. Samuel Sharma,Orthopaedics,"MBBS, MD",13,Bengaluru,Karnataka,Apollo Clinic Jayanagar,1900,4.4,2061,Tue-Sun,20,Yes,No
+DOC1303,Dr. Jacob Mathew,General Physician,"MBBS, DNB",29,Bengaluru,Karnataka,Apollo Hospital Bannerghatta,900,4.1,2488,Mon-Sat,15,Yes,Yes
+DOC1304,Dr. Rohit Raghunathan,Dermatology,"MBBS, MCh",21,Indore,Madhya Pradesh,Apollo Clinic Vijay Nagar,1500,5.0,1522,Mon-Sat,20,No,Yes
+DOC1305,Dr. Karthik Thomas,Paediatrics,"MBBS, DM",18,Jaipur,Rajasthan,Apollo Clinic Malviya Nagar,1100,4.4,852,Mon-Sat,10,Yes,Yes
+DOC1306,Dr. Lakshmi Mehta,General Physician,"MBBS, MRCP",19,Delhi,Delhi,Apollo Hospital Sarita Vihar,800,4.6,1198,Mon-Sat,15,Yes,Yes
+DOC1307,Dr. Jacob Siddiqui,Endocrinology,"MBBS, MD, PhD",28,Mumbai,Maharashtra,Apollo Clinic Andheri,2500,4.2,2192,Mon-Sat,10,Yes,Yes
+DOC1308,Dr. Philip Krishnamurthy,Dermatology,"MBBS, MD",4,Bengaluru,Karnataka,Apollo Hospital Bannerghatta,1300,4.5,96,Tue-Sun,10,Yes,Yes
+DOC1309,Dr. Pradeep Singh,General Physician,"MBBS, DNB",18,Kolkata,West Bengal,Apollo Clinic Park Street,800,4.7,2372,Mon-Wed-Fri-Sat,10,Yes,Yes
+DOC1310,Dr. Karthik Khan,General Physician,"MBBS, MS, FRCS",22,Chennai,Tamil Nadu,Apollo Clinic Adyar,800,4.3,781,Tue-Sun,30,Yes,No
+DOC1311,Dr. Venkatesan Naidu,Dermatology,"MBBS, MD, PhD",13,Delhi,Delhi,Apollo Hospital Sarita Vihar,1500,4.8,2002,Mon-Sat,30,Yes,Yes
+DOC1312,Dr. Ayesha Ahmad,Orthopaedics,"MBBS, MS, FRCS",16,Delhi,Delhi,Apollo Spectra Delhi,2000,4.4,2171,Mon-Sat,20,No,Yes
+DOC1313,Dr. Aditya Raghunathan,Neurology,"MBBS, MS, FRCS",20,Bengaluru,Karnataka,Apollo Spectra Koramangala,2900,4.9,2231,Mon-Fri,30,Yes,No
+DOC1314,Dr. Naveen Mathew,General Physician,"MBBS, DM",28,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,800,4.6,2462,Mon-Sat,20,Yes,Yes
+DOC1315,Dr. Usha George,General Physician,"MBBS, MS, FRCS",25,Chennai,Tamil Nadu,Apollo Children's Hospital,900,4.8,2214,Tue-Sun,10,Yes,Yes
+DOC1316,Dr. Girish Iyer,General Physician,"MBBS, MD, PhD",21,Chennai,Tamil Nadu,Apollo Children's Hospital,800,4.4,1259,Mon-Sat,15,Yes,Yes
+DOC1317,Dr. Jacob Iyer,Paediatrics,"MBBS, MS, FRCS",26,Hyderabad,Telangana,Apollo Hospital Jubilee Hills,1400,4.9,623,Mon-Sat,10,Yes,No
+DOC1318,Dr. Venkatesan Ahmad,Neurology,"MBBS, MD, PhD",5,Lucknow,Uttar Pradesh,Apollo Clinic Gomti Nagar,2000,4.3,2404,Mon-Sat,20,No,Yes
+DOC1319,Dr. Venkatesan George,Endocrinology,"MBBS, DM",20,Chandigarh,Punjab,Apollo Clinic Sector 8,2000,4.7,1744,Mon-Wed-Fri-Sat,15,Yes,Yes
+DOC1320,Dr. Girish Krishnamurthy,General Physician,"MBBS, MRCP",23,Bhopal,Madhya Pradesh,Apollo Sage Hospital Bhopal,800,4.6,145,Mon-Sat,15,No,Yes
